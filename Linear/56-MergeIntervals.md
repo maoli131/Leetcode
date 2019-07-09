@@ -67,21 +67,16 @@ class Solution {
 
 ## Complexity Analysis
 - **Time Complexity:** 
-  $$ 
-  O(nlog(n)) 
-  $$
-  排序需要nlog(n)，合并重合只是linear scan了整个区间数组，所以最终的Time Complexity是O(nlog(n)).
+  O(nlog(n)). 排序需要nlog(n)，合并重合只是linear scan了整个区间数组，所以最终的Time Complexity是O(nlog(n)).
 
 - **Space Complexity:**
-  $$
-  O(1)
-  $$
-  虽然我们新建了`merged`来存储合并后的区间，但是它是output所必要的空间，所以我们并不将它计算在Space Complexity之中。因为Java的`Arrays.sort`是in-place sorting，所以我们并不需要额外的空间。因此，Space Complexity为O(1).
+  O(1). 虽然我们新建了`merged`来存储合并后的区间，但是它是output所必要的空间，所以我们并不将它计算在Space Complexity之中。因为Java的`Arrays.sort`是in-place sorting，所以我们并不需要额外的空间。因此，Space Complexity为O(1).
 
 ## 优化/其他解答
 
 我们可以更进一步深入理解这个问题：我们的解法本质上是对每一个`start`，去匹配它所对应的合并区间之后的`end`。因此，我们可以更进一步，将原有的`Intervals`拆分成两个不同的数组，一个包括所有的`start`，另一个包括所有的`end`。分别排序两者之后，我们可以直接寻找匹配的`start`和`end`，以寻找到合并后的区间。
 
 ## 总结
-- 排序能够方便我们更高效地找到重合区间；
+- 排序能够方便我们更高效地找到重合区间。
 - 双指针方便我们合并重合区间。
+- 双指针类的问题，我们需要根据题目条件，或者自己创造出来条件，思考指针的移动方向、比较条件和终止方式。
