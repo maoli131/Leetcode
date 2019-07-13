@@ -15,3 +15,5 @@ I improve my software engineering's fundamental skills.
 
 I believe Leetcode is not simply about coding a solution, but about ***problem solving***, 
 *mathematical analysis* and *coding habits tuning*.
+
+Another more concept based repository: [UCSD-CSE-ReviewDocs](https://github.com/maoli131/UCSD-CSE-ReviewDocs)
