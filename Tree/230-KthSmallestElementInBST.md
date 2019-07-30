@@ -83,3 +83,7 @@ How would you optimize the kthSmallest routine?
 
 我们在做这类第k小、第k大的题目时，需要灵活运用inorder, preorder, postorder三种树遍历的方法，并对特定问题进行优化。比如这道题目我们利用了
 Stack的特性，只取k个元素出来，极大了减少运行时间。
+
+## Reference
+
+- [Leetcode Official Solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)
