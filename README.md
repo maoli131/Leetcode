@@ -18,5 +18,6 @@ I believe Leetcode is not simply about coding a solution, but about ***problem s
 
 
 ## Helpful Links
-- A [Complete Guide](https://github.com/jwasham/coding-interview-university) towards Software Engineering Interview
+- [Complete Guide](https://github.com/jwasham/coding-interview-university) towards Software Engineering Interview
+- [Comprehensive Chinese Leetcode Solution Resources](https://leetcode.wang/)
 - [UCSD-CSE-ReviewDocs](https://github.com/maoli131/UCSD-CSE-ReviewDocs)
