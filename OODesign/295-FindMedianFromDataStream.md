@@ -97,6 +97,8 @@ class MedianFinder {
 
 ## 拓展
 
+- If all integer numbers from the stream are between 0 and 100, how would you optimize it?
+- If 99% of all integer numbers from the stream are between 0 and 100, how would you optimize it?
 - 除了用Heap之外，我们还可以使用其他的数据结构比如AVL树来实现这个算法吗？
 - 在Leetcode论坛上有讨论多种其他方法，比如Buckets, Reservoir Sampling等等，同学么可以去Reference Link中看看。
 
