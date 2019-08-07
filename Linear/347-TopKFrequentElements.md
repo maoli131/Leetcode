@@ -62,6 +62,16 @@ class Solution {
 
 - **Space Complexity:** O(n). 我们使用了额外O(n)的空间来使用HashMap和PriorityQueue。 
 
+## 拓展
+
+在上面的解法中我们使用了PriorityQueue来保持前k个的顺序，但是让时间复杂度增加到了O(nlog(k)).
+我们如何优化以避免使用PriorityQuue呢？我们可以所使用BucketSort来解决这个问题吗？
+
+## 总结
+
+解答这类题型我们需要对各种数据结构的特征、复杂度和用法非常熟悉，比如计数能想到用HashMap，排序想到用
+PriorityQueue。
+
 ## Reference
 
 - [Leetcode Official Solution](https://leetcode.com/problems/top-k-frequent-elements/solution/)
