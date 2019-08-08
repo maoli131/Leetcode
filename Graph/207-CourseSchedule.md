@@ -87,6 +87,10 @@ class Solution {
 我们以上用BFS实现了拓扑排序。你能用DFS实现它吗？我们从没被访问过的节点开始，连续访问它的所有相邻节点。如果访问到之前访问过的节点，则有循环；
 如果没有，我们从另一个未被访问过的节点开始继续深度优先搜索。
 
+## 总结
+
+对拓扑排序、BFS、DFS这类算法，我们需要具备基本的熟练度。清晰判断题目考察方向后，能够很快给出实现。
+
 ## Reference
 
 - [jianchao-li's solution](https://leetcode.com/problems/course-schedule/discuss/58509/C%2B%2B-BFSDFS)
