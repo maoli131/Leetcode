@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains my on-going summary of classical Leetcode questions. I
+This repository contains my on-going summary of classical Leetcode questions.
 
 It aims to help me prepare for coding interview, but more importantly, it serves as the playground where
 I improve my software engineering's fundamental skills. 
