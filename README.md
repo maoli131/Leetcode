@@ -25,6 +25,8 @@ All questions are organized into different categories as following:
 - Object-Oriented Design
 
 ## Helpful Links
+- [General Tips on Using Leetcode to Prepare for Interview](https://medium.com/@alimirio/how-to-solve-problems-on-leetcode-to-prepare-for-technical-interviews-e74781b865d2)
+- [Detailed Leetcode Grinding Strategy](https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/)
 - [Complete Guide](https://github.com/jwasham/coding-interview-university) towards Software Engineering Interview
 - [Comprehensive Chinese Leetcode Solution Resources](https://leetcode.wang/)
 - [UCSD-CSE-ReviewDocs](https://github.com/maoli131/UCSD-CSE-ReviewDocs)
