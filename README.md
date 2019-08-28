@@ -14,7 +14,7 @@ This repository is online at https://leetcode.li-mao.net, powered by gitbook.
 
 ## Table of Content
 
-All questions are organized into different categories as following:
+All questions are organized into different categories as following. Questions with an `(en)` tag means they are summerized in English.
 
 - Data Structures
   - (206) Reverse Linked List
@@ -29,6 +29,7 @@ All questions are organized into different categories as following:
   - (3) Longest Substring Without Repeating Characters
   - (4) Median of Two Sorted Array
   - (5) Longest Palindromic Substring
+  - (6) [Zig Zag Conversion (en)](Linear/6-ZigZagConversion.md)
   - (11) Container With Most Water
   - (23) Merge K Sorted Lists
   - (48) Rotate Image
