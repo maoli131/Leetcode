@@ -56,6 +56,7 @@ All questions are organized into different categories as following. Questions wi
   - (253) Meeting Room II
   - (303) Range Sum Query
 - Mathematics
+  - (7) [Reverse Integer (en)](Math/7-ReverseInteger.md)
   - (50) Pow(x, n)
   - (166) Fraction to Recurring Decimals
   - (360) Sort Transformed Array
