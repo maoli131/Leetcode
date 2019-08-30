@@ -30,6 +30,7 @@ All questions are organized into different categories as following. Questions wi
   - (4) Median of Two Sorted Array
   - (5) Longest Palindromic Substring
   - (6) [Zig Zag Conversion (en)](Linear/6-ZigZagConversion.md)
+  - (8) [String to Integer (en)](Linear/8-StringToInteger.md)
   - (11) Container With Most Water
   - (23) Merge K Sorted Lists
   - (48) Rotate Image
