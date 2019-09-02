@@ -77,7 +77,7 @@ class Solution {
 
 ## Extension
 
-If the input is of type float, can you reverse it and keep the number of decimals?
+If the input is of type float, can you reverse it and keep the number of decimals? Also, we can use this method to solve Leetcode 9, palindromic integer. 
 
 ## Summary
 
